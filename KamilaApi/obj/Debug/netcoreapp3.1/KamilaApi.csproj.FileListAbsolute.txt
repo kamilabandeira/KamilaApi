@@ -18,3 +18,10 @@ C:\Git\Pessoal\KamilaApi\KamilaApi\obj\Debug\netcoreapp3.1\KamilaApi.RazorTarget
 C:\Git\Pessoal\KamilaApi\KamilaApi\obj\Debug\netcoreapp3.1\KamilaApi.dll
 C:\Git\Pessoal\KamilaApi\KamilaApi\obj\Debug\netcoreapp3.1\KamilaApi.pdb
 C:\Git\Pessoal\KamilaApi\KamilaApi\obj\Debug\netcoreapp3.1\KamilaApi.genruntimeconfig.cache
+C:\Git\Pessoal\KamilaApi\KamilaApi\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Git\Pessoal\KamilaApi\KamilaApi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Annotations.dll
+C:\Git\Pessoal\KamilaApi\KamilaApi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Git\Pessoal\KamilaApi\KamilaApi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Git\Pessoal\KamilaApi\KamilaApi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Git\Pessoal\KamilaApi\KamilaApi\obj\Debug\netcoreapp3.1\KamilaApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Git\Pessoal\KamilaApi\KamilaApi\obj\Debug\netcoreapp3.1\KamilaApi.csproj.CopyComplete

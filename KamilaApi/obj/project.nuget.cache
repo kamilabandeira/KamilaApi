@@ -1,8 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "lt5eXF9jvUoiBpdu+Eken+QrkopADAWbhVSJA4z7u/H489PKaALEklj0zNDgfEejxdl/1+VETkmF2SeAj3hKdg==",
+  "dgSpecHash": "aqDTHYah5Mto7bPzsu6eV7SnZYqJzT0MFKS7lpDDzoIVI535GgYq5oW7gqMnhAu4u6+vyQo6GvDBK5Npws0Pjw==",
   "success": true,
   "projectFilePath": "C:\\Git\\Pessoal\\KamilaApi\\KamilaApi\\KamilaApi.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\kamil\\.nuget\\packages\\microsoft.openapi\\1.1.4\\microsoft.openapi.1.1.4.nupkg.sha512",
+    "C:\\Users\\kamil\\.nuget\\packages\\swashbuckle.aspnetcore.annotations\\5.0.0\\swashbuckle.aspnetcore.annotations.5.0.0.nupkg.sha512",
+    "C:\\Users\\kamil\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.0.0\\swashbuckle.aspnetcore.swagger.5.0.0.nupkg.sha512",
+    "C:\\Users\\kamil\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.0.0\\swashbuckle.aspnetcore.swaggergen.5.0.0.nupkg.sha512",
+    "C:\\Users\\kamil\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.0.0\\swashbuckle.aspnetcore.swaggerui.5.0.0.nupkg.sha512"
+  ],
   "logs": []
 }
