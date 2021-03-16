@@ -1,4 +1,5 @@
 ﻿using KamilaApi.Model;
+using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
 using System;
@@ -12,10 +13,7 @@ namespace KamilaApi.Controllers
     [Route("api/[controller]")]
     public class ClienteController : ControllerBase
     {
-        //public IActionResult Banana()
-        //{
-        //    return Ok("Banana");
-        //}
+     
 
         [HttpGet]
         public IActionResult Index()
@@ -29,5 +27,38 @@ namespace KamilaApi.Controllers
 
             return Ok(listaDeClientes);
         }
+
+        [HttpPost]
+        //public ActionResult Create(IFormCollection collection)
+        public ActionResult Create(string parametro)
+        {
+            
+            return Ok(parametro);
+        }
+
+        [HttpPut]
+        public ActionResult Inserir(int id)
+        {
+            var retorno = "";
+            try
+            {
+                retorno = "entrei no try";
+            
+            }
+            catch
+            {
+                retorno = "entrei no catch";
+            }
+
+            return Ok(retorno);
+        }
+
+
+        [HttpDelete]
+        public ActionResult Delete(int id)
+        {
+            return Ok("DELETE OK");
+        }
+       
     }
 }
